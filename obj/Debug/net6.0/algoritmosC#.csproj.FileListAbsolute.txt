@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\bin\Debug\net6.0\algoritmosC#.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\bin\Debug\net6.0\algoritmosC#.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\bin\Debug\net6.0\algoritmosC#.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\bin\Debug\net6.0\algoritmosC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\bin\Debug\net6.0\algoritmosC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\refint\algoritmosC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\algoritmosC#.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\algoritmosC#\obj\Debug\net6.0\ref\algoritmosC#.dll
